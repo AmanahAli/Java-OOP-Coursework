@@ -24,6 +24,6 @@ This project was developed as part of a coursework assignment to demonstrate ski
   * Consultation viewer panel-  view all bookings with detailed information
 
 ## 🚀 Installation & Setup
-**Prerequisites**
+### Prerequisites
 * Java 8+ installed
 * IDE such as IntelliJ IDEA, Eclipse, or NetBeans
