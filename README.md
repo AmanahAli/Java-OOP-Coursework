@@ -27,3 +27,6 @@ This project was developed as part of a coursework assignment to demonstrate ski
 ### Prerequisites
 * Java 8+ installed
 * IDE such as IntelliJ IDEA, Eclipse, or NetBeans
+
+### Running the Application
+1. Clone the repository:
