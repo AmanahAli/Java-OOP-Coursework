@@ -22,4 +22,8 @@ This project was developed as part of a coursework assignment to demonstrate ski
   * Doctor list with styled table and sorting
   * Consultation booking panel with availability checking
   * Consultation viewer panel-  view all bookings with detailed information
-    
+
+## 🚀 Installation & Setup
+**Prerequisites**
+* Java 8+ installed
+* IDE such as IntelliJ IDEA, Eclipse, or NetBeans
