@@ -5,3 +5,8 @@ A **Java application** that manages doctors, patients, and consultations at a sk
 This project was developed as part of a coursework assignment to demonstrate skills in **object-oriented programming, GUI development, file handling, and encryption**.
 
 ## Features
+* Doctor Management
+  * Add new doctors (max 10)
+  * Delete doctors by medical licence number
+  * View all doctors (sorted alphabetically by surname)
+  * Save/load doctor data to/from file
