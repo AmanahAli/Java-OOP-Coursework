@@ -10,3 +10,10 @@ This project was developed as part of a coursework assignment to demonstrate ski
   * Delete doctors by medical licence number
   * View all doctors (sorted alphabetically by surname)
   * Save/load doctor data to/from file
+
+* Consultation Management
+  * Book a consultation with a doctor
+  * Enter patient information (validated input)
+  * Calculate consultation cost
+  * Store encrypted notes (AES encryption for confidentiality)
+  * View consultation details through the GUI
