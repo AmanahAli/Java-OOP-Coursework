@@ -70,6 +70,6 @@ A **Java application** that manages doctors, patients, and consultations at a sk
     WestminsterSkinConsultationManager manager = new WestminsterSkinConsultationManager(10);
     manager.runMenu();  // Console menu
     // OR manager.openGUI();  // Open GUI directly
-}
+   }
 
 
