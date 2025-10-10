@@ -49,8 +49,8 @@ A **Java application** that manages doctors, patients, and consultations at a sk
 
 **GUI Navigation**
 
-- View Doctors Tab: View and sort doctor information
-- View Consultations Tab: Browse all scheduled consultations
-- Book Consultation Tab: Create new patient appointments
+- **View Doctors Tab:** View and sort doctor information
+- **View Consultations Tab:** Browse all scheduled consultations
+- **Book Consultation Tab:** Create new patient appointments
 
 
