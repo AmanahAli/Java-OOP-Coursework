@@ -36,3 +36,21 @@ A Java application that manages doctors, patients, and consultations at a skin c
 - Prevents adding more than 10 doctors
 - Ensures correct date format (dd/MM/yyyy)
 - Displays friendly error messages for invalid input
+
+## Usage
+**Console Menu Options**
+
+1. Add New Doctor: Register doctors with validation for all fields
+2. Delete Doctor: Remove doctors by medical licence number
+3. Print Doctor List: Display all doctors sorted alphabetically
+4. Save and Load Data: Manual data persistence operations
+5. Open GUI: Launch the graphical interface
+6. Exit: Save data and close application
+
+**GUI Navigation**
+
+- View Doctors Tab: View and sort doctor information
+- View Consultations Tab: Browse all scheduled consultations
+- Book Consultation Tab: Create new patient appointments
+
+
