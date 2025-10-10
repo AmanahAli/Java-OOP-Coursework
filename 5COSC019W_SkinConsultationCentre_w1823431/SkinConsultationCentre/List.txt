@@ -1,0 +1,7 @@
+Doctor Name: Emma
+Doctor Surname: Smith
+Date of birth: 05/10/2000
+Mobile Number: 03940404840
+Medical Licence Number: 840
+Job Specialisation: Medical Dermatology
+------------------------
