@@ -1,6 +1,6 @@
 # Skin Consultation Centre Management System
 
-A Java application that manages doctors, patients, and consultations at a skin consultation centre. The system provides both a console-based menu and a graphical user interface (GUI) for interacting with the data. This project was developed as part of a coursework assignment to demonstrate skills in object-oriented programming, GUI development, file handling, and encryption.
+A **Java application** that manages doctors, patients, and consultations at a skin consultation centre. The system provides both a **console-based menu** and a **graphical user interface (GUI)** for interacting with the data. This project was developed as part of a coursework assignment to demonstrate skills in **object-oriented programming, GUI development, file handling, and encryption**.
 
 ## Features
 
@@ -40,12 +40,12 @@ A Java application that manages doctors, patients, and consultations at a skin c
 ## Usage
 **Console Menu Options**
 
-1. Add New Doctor: Register doctors with validation for all fields
-2. Delete Doctor: Remove doctors by medical licence number
-3. Print Doctor List: Display all doctors sorted alphabetically
-4. Save and Load Data: Manual data persistence operations
-5. Open GUI: Launch the graphical interface
-6. Exit: Save data and close application
+1. **Add New Doctor:** Register doctors with validation for all fields
+2. **Delete Doctor:** Remove doctors by medical licence number
+3. **Print Doctor List:** Display all doctors sorted alphabetically
+4. **Save and Load Data:** Manual data persistence operations
+5. **Open GUI:** Launch the graphical interface
+6. **Exit:** Save data and close application
 
 **GUI Navigation**
 
