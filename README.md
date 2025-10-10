@@ -61,10 +61,11 @@ A **Java application** that manages doctors, patients, and consultations at a sk
 # Running the Application
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/skin-consultation-centre.git
+   git clone https://github.com/AmanahAli/skin-consultation-centre.git
    cd skin-consultation-centre
 2. Open the project in your IDE.
 3. Run the main class:
+   ```bash
    public static void main(String[] args) {
     WestminsterSkinConsultationManager manager = new WestminsterSkinConsultationManager(10);
     manager.runMenu();  // Console menu
