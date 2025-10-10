@@ -54,11 +54,11 @@ A **Java application** that manages doctors, patients, and consultations at a sk
 - **Book Consultation Tab:** Create new patient appointments
 
 ## Getting Started
-# Prerequisites
+### Prerequisites
 - Java 8+ installed
 - IDE such as IntelliJ IDEA, Eclipse, or NetBeans
 
-# Running the Application
+### Running the Application
 1. Clone this repository:
    ```bash
    git clone https://github.com/AmanahAli/skin-consultation-centre.git
