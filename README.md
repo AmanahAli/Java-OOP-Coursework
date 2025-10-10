@@ -1,0 +1,38 @@
+# Skin Consultation Centre Management System
+
+A Java application that manages doctors, patients, and consultations at a skin consultation centre. The system provides both a console-based menu and a graphical user interface (GUI) for interacting with the data. This project was developed as part of a coursework assignment to demonstrate skills in object-oriented programming, GUI development, file handling, and encryption.
+
+## Features
+
+**Doctor Management**
+
+- Add, delete, and view doctors (max 10)
+- Delete doctors by medical licence number
+- View all doctors (sorted alphabetically by surname)
+- Save/load doctor data to/from file
+
+**Consultation Management**
+
+- Book a consultation with a doctor
+- Enter patient information (validated input)
+- Calculate consultation cost
+- Store encrypted notes (AES encryption)
+- View consultation details through the GUI
+
+**Graphical User Interface (GUI)**
+
+- Doctor list with styled table and sorting
+- Consultation booking panel: Interactive booking system with availability checking
+- Consultation viewer panel: View all bookings with detailed information
+
+**Data Persistence**
+
+- All doctors and consultations are saved to file
+- When the application restarts, data is loaded back automatically
+
+**Error Handling & Validation**
+
+- Validates mobile numbers
+- Prevents adding more than 10 doctors
+- Ensures correct date format (dd/MM/yyyy)
+- Displays friendly error messages for invalid input
